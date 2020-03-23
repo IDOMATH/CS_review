@@ -1,1 +1,6 @@
-##CS_review
+#CS_review
+---------
+##Compile a program
+```
+csc filename.cs
+```
